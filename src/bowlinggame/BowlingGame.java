@@ -8,7 +8,7 @@ package bowlinggame;
 
 /**
  *
- * @author a1136976
+ * @author a1136976 - Jennifer
  */
 public class BowlingGame {
 
