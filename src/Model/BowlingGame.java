@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bowlinggame;
+package Model;
+
+import java.util.Observable;
 
 /**
  *
  * @author a1136976 - Jennifer
  */
-public class BowlingGame {
+public class BowlingGame extends Observable{
 
     /**
      * @param args the command line arguments

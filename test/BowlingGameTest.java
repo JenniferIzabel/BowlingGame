@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-import bowlinggame.BowlingGame;
+import Model.BowlingGame;
 import org.junit.After;
 import org.junit.AfterClass;
 import static org.junit.Assert.*;
