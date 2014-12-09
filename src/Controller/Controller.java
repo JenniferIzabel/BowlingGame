@@ -6,7 +6,7 @@ package Controller;
 
 
 import Model.BowlingGame;
-import View.GUI;
+import View.ViewGUI;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -25,12 +25,12 @@ class Controller implements ActionListener {
 	/**
  	 * Visão a ser utilizada.
  	 */
-	private GUI gui;
+	private ViewGUI gui;
 
 	/**
  	 * Inicializa o objeto (construtor).
  	 */
-	public Controller() {	
+	public Controller(int i) {	
 		System.out.println ("Controller()");
 	}
 
